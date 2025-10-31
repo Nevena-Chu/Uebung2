@@ -3,10 +3,10 @@ package h2;
 public class H2_main {
 
 	public static void main(String[] args) {
-		// 
-		        int i = 64;
-		        int j = 9;
-		        int k = 28;
+		// 3 Variablen deklarieren
+		        int i = 67;
+		        int j = 90;
+		        int k = 29;
 
 		        int min;
 		        int max;
