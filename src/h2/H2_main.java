@@ -3,6 +3,7 @@ package h2;
 public class H2_main {
 
 	public static void main(String[] args) {
+		// 
 		        int i = 64;
 		        int j = 9;
 		        int k = 28;
@@ -10,7 +11,7 @@ public class H2_main {
 		        int min;
 		        int max;
 
-		        // Minimum finden
+	  // Minimum finden
 		        if (i < j && i < k) {
 		            min = i;
 		        } else if (j < i && j < k) {
@@ -19,8 +20,8 @@ public class H2_main {
 		            min = k;
 		        }
 
-		        // Maximum finden
-		        if (i > j && i > k) {
+     // Maximum finden
+		 if (i > j && i > k) {
 		            max = i;
 		        } else if (j > i && j > k) {
 		            max = j;
